@@ -4,9 +4,6 @@ version = "0.1.0"
 authors = ["fdeantoni <fdeantoni@gmail.com>"]
 edition = "2018"
 
-[[bin]]
-name = "server"
-path = "src/server.rs"
 
 [[bin]]
 name = "client"
